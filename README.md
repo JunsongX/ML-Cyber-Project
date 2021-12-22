@@ -9,6 +9,8 @@ All the models and data can be found here: https://drive.google.com/drive/folder
 
 Open the file which ends with .ipynb, put all the models and data into google drive, revise the path with the path in your google drive.  
 
-Since the Good-Net are in sub-class form, It cannot be stored as H5 file. Just run the Notebook and the Good-Net model is in the notebook.
+## Results
+
+Since the Good-Net are in sub-class form, It cannot be stored as H5 file. Just run the Notebook and the Good-Net models Are in the notebook.
 
 
